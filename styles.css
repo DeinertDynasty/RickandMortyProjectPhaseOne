@@ -67,6 +67,8 @@ sidebar body {
     padding: 20px;
 }
 h3 {
+    text-align: left; /* Align the text to the left */
     border: 3px solid green; /* Add a thick green border */
     padding: 10px; /* Add some space around the text */
+    
 }
