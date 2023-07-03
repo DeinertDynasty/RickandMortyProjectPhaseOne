@@ -51,3 +51,18 @@ body {
 #results p {
     margin-top: 10px;
 }
+body {
+    display: flex;
+}
+
+#sidebar {
+    width: 200px;
+    padding: 20px;
+    background-color: #5a0fb4;
+    color: white;
+}
+
+#main {
+    flex-grow: 1;
+    padding: 20px;
+}
