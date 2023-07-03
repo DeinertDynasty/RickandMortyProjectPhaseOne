@@ -20,7 +20,12 @@ searchBox.addEventListener('keyup', (e) => {
                 div.innerHTML = `
                     <h2>${character.name}</h2>
                     <img src="${character.image}" alt="${character.name}">
-                    <p id="info${character.id}" style="display: none;">${character.status} - ${character.species}</p>
+                    <p id="info${character.id}" style="display: none;">
+                        Status: ${character.status}<br>
+                        Species: ${character.species}<br>
+                        Gender: ${character.gender}<br>
+                        Location: ${character.location.name}
+                    </p>
                 `;
                 results.appendChild(div);
 
