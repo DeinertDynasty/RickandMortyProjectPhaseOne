@@ -51,7 +51,7 @@ body {
 #results p {
     margin-top: 10px;
 }
-body {
+sidebar body {
     display: flex;
 }
 
