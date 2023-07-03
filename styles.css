@@ -10,7 +10,7 @@ body {
 #searchBox {
     display: block;
     margin: 0 auto;
-    width: 50%;
+    width: 69%;
     height: 60px; /* Increase the height of the search bar */
     font-size: 30px; /* Increase the font size in the search bar */
 }
