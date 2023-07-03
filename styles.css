@@ -1,0 +1,30 @@
+body {
+    background: linear-gradient(to bottom right, #5a0fb4, #32ab44);
+    color: white;
+    padding: 20px;
+}
+
+#results {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+#results div {
+    border: 2px solid #5a0fb4;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#results h2 {
+    margin-bottom: 10px;
+}
+
+#results img {
+    max-width: 100%;
+}
+
+#results p {
+    margin-top: 10px;
+}
