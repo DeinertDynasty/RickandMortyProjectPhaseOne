@@ -1,8 +1,12 @@
 body {
-    background: linear-gradient(to bottom right, #5a0fb4, #32ab44);
+    background: linear-gradient(to bottom right, blue, limegreen);
     color: white;
     padding: 20px;
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
 }
+
 
 #results {
     max-width: 600px;
