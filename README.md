@@ -22,13 +22,13 @@ This is a simple, single-page website that allows users to search for characters
 
 ## How to Use
 
-Visit the website at `https://username.github.io/repository-name` (replace `username` and `repository-name` with your actual GitHub username and the name of your repository).
+Visit the website at https://deinertdynasty.github.io/RickandMortyProjectPhaseOne/
 
 Enter a character's name in the search box. As you type, the website will display matching characters from the Rick and Morty show. Click on a character to see more information about them.
 
 ## How to Install and Run Locally
 
-1. Clone this repository to your local machine using `https://github.com/username/repository-name.git` (replace `username` and `repository-name` with your actual GitHub username and the name of your repository).
+1. Clone this repository to your local machine using `https://github.com/deinertdynasty/RickandMortyProjectPhaseOne.git` 
 2. Open the `index.html` file in a web browser.
 
 ## How to Contribute
@@ -44,6 +44,4 @@ All contributions are welcome. Please feel free to submit a pull request with an
 
 This project is licensed under the MIT License.
 
----
 
-Remember to replace `username` and `repository-name` with your actual GitHub username and the name of your repository.
