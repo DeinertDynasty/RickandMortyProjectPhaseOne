@@ -1,6 +1,6 @@
 # RickandMortyProjectPhaseOne
 ---
-Walk through video: 
+Walk through video: https://youtu.be/cPRDehXT72E
 
 # Rick and Morty Character Search Website
 
