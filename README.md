@@ -5,6 +5,7 @@ Walk through video: https://youtu.be/cPRDehXT72E
 # Rick and Morty Character Search Website
 
 This is a simple, single-page website that allows users to search for characters from the popular TV show Rick and Morty using the Rick and Morty API. The website is hosted on GitHub Pages.
+Thank you for taking the time to check out my webpage. Please feel free to fork and make any changes or improvements that you can think of or want to!
 
 ## Features
 
